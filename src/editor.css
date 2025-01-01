@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+
+  
+  button {
+    padding: 5px 10px;
+    background: #007BFF;
+    color: #161616;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #0056b3;
+  }
+  
+  textarea {
+    border: 1px solid #ccc;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .sidebar-note {
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #505050;
+  }
+  
+  .sidebar-note:hover {
+    background: #e0e0e0;
+  }
+
+  
+ 
+
+  .add{
+    cursor: pointer;
+    color: #007BFF;
+    margin-left: 8.4rem;
+    font-size: 1.3rem;
+  }
+  .text{
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
+
+  
+  @media(max-width:480px){
+    .text{
+      display: none;
+    }
+    .add{
+      cursor: pointer;
+      color: #007BFF;
+      margin-left: 0;
+      font-size: 4rem;
+    }
+    .newNote{
+      display: none;
+      padding: 0;
+    }
+    .delete{
+      margin-top: 5%;
+      padding: 0;
+    }
+  }
+  
