@@ -37,4 +37,27 @@ I used `react-markdown` and `remark-gfm` to render GitHub-flavored Markdown inst
 
 ---
 
+## 🧠 How It Works
+- User types Markdown content in a textarea
+- Markdown text is stored in React state
+- `react-markdown` parses and renders the content
+- `remark-gfm` enables advanced Markdown syntax
+- UI updates instantly on every keystroke
+
+---
+
+## 🧱 UI Structure
+- Left panel: Markdown input editor
+- Right panel: Rendered Markdown preview
+- Icons used for better visual clarity
+- Minimal layout focused on readability
+
+---
+
+## Review
+<img width="1359" height="685" alt="image" src="https://github.com/user-attachments/assets/2f217a4e-d169-4165-bff3-cb420707ecb7" />
+<img width="1366" height="685" alt="image" src="https://github.com/user-attachments/assets/e8ee6876-0ad8-429f-a81d-4c33a1184736" />
+
+
+
 
