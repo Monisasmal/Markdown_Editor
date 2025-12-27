@@ -1,8 +1,35 @@
-# React + Vite
+# 📝 Markdown Editor – React Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌐 [Live Demo](https://markdown-editor-ebon.vercel.app/)
 
-Currently, two official plugins are available:
+## 📌 Project Overview
+- A real-time **Markdown Editor** built using React
+- Allows users to write Markdown text and instantly preview formatted output
+- Supports GitHub Flavored Markdown (GFM) syntax
+- Designed with a clean and distraction-free interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React 18
+- **Markdown Rendering:** react-markdown
+- **Markdown Extensions:** remark-gfm
+- **Icons:** react-icons
+- **Build Tool:** Vite
+- **Linting:** ESLint
+
+---
+
+## 🚀 Core Features
+- Live Markdown editor with instant preview
+- GitHub Flavored Markdown support:
+  - Headings
+  - Lists
+  - Tables
+  - Code blocks
+  - Bold & Italic text
+  - Links
+- Split-screen layout for editor and preview
+- Responsive design for different screen sizes
+
+---
