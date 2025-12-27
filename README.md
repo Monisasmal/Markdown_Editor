@@ -1,5 +1,8 @@
 # 📝 Markdown Editor – React Application
 
+This is a real-time Markdown editor built with React. 
+I used `react-markdown` and `remark-gfm` to render GitHub-flavored Markdown instantly while typing, focusing on performance, clean UI, and user experience.
+
 ## 🌐 [Live Demo](https://markdown-editor-ebon.vercel.app/)
 
 ## 📌 Project Overview
@@ -33,3 +36,5 @@
 - Responsive design for different screen sizes
 
 ---
+
+
