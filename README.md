@@ -58,6 +58,22 @@ I used `react-markdown` and `remark-gfm` to render GitHub-flavored Markdown inst
 <img width="1359" height="685" alt="image" src="https://github.com/user-attachments/assets/2f217a4e-d169-4165-bff3-cb420707ecb7" />
 <img width="1366" height="685" alt="image" src="https://github.com/user-attachments/assets/e8ee6876-0ad8-429f-a81d-4c33a1184736" />
 
+----
+
+**🙋‍♀️ Author**
+
+## Manaswini Sasmal
+
+📲 - 6370094643
+
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
+
 
 
 
