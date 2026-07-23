@@ -60,9 +60,7 @@ I used `react-markdown` and `remark-gfm` to render GitHub-flavored Markdown inst
 
 ----
 
-**🙋‍♀️ Author**
-
-## Manaswini Sasmal
+## 🙋‍♀️ Author - Manaswini Sasmal
 
 📲 - 6370094643
 
